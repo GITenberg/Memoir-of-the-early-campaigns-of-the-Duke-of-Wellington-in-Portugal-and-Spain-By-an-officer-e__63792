@@ -1,5 +1,8 @@
 _repo: Memoir-of-the-early-campaigns-of-the-Duke-of-Wellington-in-Portugal-and-Spain-By-an-officer-e__63792
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63792-h/images/cover.jpg
 creator:
   author:
     agent_name: Westmorland, John Fane, Earl of
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52605
     wikipedia: https://en.wikipedia.org/wiki/John_Fane,_11th_Earl_of_Westmorland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63792#Memoir-of-the-early-campaigns-of-the-Duke-of-Wellington-in-Portugal-and-Spain-By-an-officer-e_
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
