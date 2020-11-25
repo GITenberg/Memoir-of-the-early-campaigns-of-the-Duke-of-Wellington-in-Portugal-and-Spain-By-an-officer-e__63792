@@ -1,0 +1,32 @@
+_repo: Memoir-of-the-early-campaigns-of-the-Duke-of-Wellington-in-Portugal-and-Spain-By-an-officer-e__63792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westmorland, John Fane, Earl of
+    aliases:
+    - Fane, John, Earl of Westmorland
+    - Westmoreland, John Fane, Earl of
+    - Burghersh, Lord
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '52605'
+    url: http://www.gutenberg.org/2009/agents/52605
+    wikipedia: https://en.wikipedia.org/wiki/John_Fane,_11th_Earl_of_Westmorland
+description: ''
+gutenberg_issued: '2020-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wellington, Arthur Wellesley, Duke of, 1769-1852'
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives'
+- !lcc 'DA'
+- GITenberg
+title: 'Memoir of the early campaigns of the Duke of Wellington, in Portugal and Spain,
+
+  By an officer employed in his army'
+url: http://www.gutenberg.org/ebooks/63792
